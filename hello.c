@@ -7,5 +7,14 @@ int main() {
 }
 
 
-pressing the pencil .
-  pencil stands for editing said by cr(nischay)
+
+
+
+
+
+
+#include <stdio.h>
+int main(){
+  
+}
+return 0 
